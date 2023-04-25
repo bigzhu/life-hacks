@@ -3,7 +3,7 @@
   "description": "Doks child theme",
   "version": "0.5.0",
   "engines": {
-    "node": ">=16.16.0"
+    "node": ">=18"
   },
   "browserslist": [
     "defaults"
@@ -38,32 +38,32 @@
     "version": "auto-changelog -p && git add CHANGELOG.md"
   },
   "devDependencies": {
-    "@babel/cli": "^7.18",
-    "@babel/core": "^7.18",
-    "@babel/preset-env": "^7.18",
-    "@fullhuman/postcss-purgecss": "^4.1",
+    "@babel/cli": "^7.21",
+    "@babel/core": "^7.21",
+    "@babel/preset-env": "^7.21",
+    "@fullhuman/postcss-purgecss": "^5.0",
     "@hyas/doks": "^0.5",
-    "@hyas/images": "^0.2.1",
+    "@hyas/images": "^0.3.2",
     "auto-changelog": "^2.4.0",
     "autoprefixer": "^10.4",
-    "bootstrap": "^5.1",
+    "bootstrap": "^5.2",
     "clipboard": "^2.0",
-    "eslint": "^8.19",
+    "eslint": "^8.39",
     "exec-bin": "^1.0.0",
-    "flexsearch": "^0.7.21",
-    "highlight.js": "^11.5",
-    "hugo-installer": "^3.1",
-    "instant.page": "^5.1",
+    "flexsearch": "^0.7.31",
+    "highlight.js": "^11.7",
+    "hugo-installer": "^4.0",
+    "instant.page": "^5.2",
     "katex": "^0.16",
     "lazysizes": "^5.3",
-    "markdownlint-cli2": "^0.4.0",
+    "markdownlint-cli2": "^0.7.0",
     "netlify-plugin-submit-sitemap": "^0.4.0",
     "postcss": "^8.4",
-    "postcss-cli": "^10.0",
+    "postcss-cli": "^10.1",
     "purgecss-whitelister": "^2.4",
     "shx": "^0.3",
-    "stylelint": "^14.9",
-    "stylelint-config-standard-scss": "^4.0"
+    "stylelint": "^15.6",
+    "stylelint-config-standard-scss": "^9.0"
   },
   "otherDependencies": {
     "hugo": "0.101.0"
