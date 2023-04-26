@@ -1,0 +1,17 @@
+- id: get-started
+  translation: "开始"
+
+- id: on-this-page
+  translation: "On this page"
+
+- id: search-text
+  translation: "搜索中..."
+
+- id: 404-title
+  translation: "页面未找到 :("
+
+- id: 404-text
+  translation: "正在访问的页面不存在或者已经被删除."
+
+- id: browse
+  translation: "浏览器"
