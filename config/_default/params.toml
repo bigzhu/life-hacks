@@ -22,18 +22,18 @@ twitterCreator = "@bigzhu"
 # schemaType = "Person"
 schemaType = "Organization"
 schemaName = "Doks"
-schemaAuthor = "Henk Verlinde"
+schemaAuthor = "Big Zhu"
 schemaAuthorTwitter = "https://twitter.com/bigzhu"
-schemaAuthorLinkedIn = "https://www.linkedin.com/in/henkverlinde/"
-schemaAuthorGitHub = "https://github.com/h-enk"
-schemaLocale = "en-US"
+#schemaAuthorLinkedIn = "https://www.linkedin.com/in/henkverlinde/"
+schemaAuthorGitHub = "https://github.com/bigzhu"
+schemaLocale = "zh-CN"
 schemaLogo = "logo-doks.png"
 schemaLogoWidth = 512
 schemaLogoHeight = 512
 schemaImage = "doks.png"
 schemaImageWidth = 1280
 schemaImageHeight = 640
-schemaTwitter = "https://twitter.com/getdoks"
+schemaTwitter = "https://twitter.com/bigzhu"
 schemaLinkedIn = ""
 schemaGitHub = "https://github.com/h-enk/doks"
 schemaSection = "blog"
@@ -67,20 +67,20 @@ fillImage = "1270x740 Center" # normalize image size
 footer = "Powered by <a class=\"text-muted\" href=\"https://www.netlify.com/\">Netlify</a>, <a class=\"text-muted\" href=\"https://gohugo.io/\">Hugo</a>, and <a class=\"text-muted\" href=\"https://getdoks.org/\">Doks</a>"
 
 # Feed
-copyRight = "Copyright (c) 2020-2021 Henk Verlinde"
+copyRight = "Copyright (c) 2023-2023 Big Zhu"
 
 # Alert
 alert = false
 alertDismissable = true
 # alertText = "Introducing the Doks child theme, several DX + UX updates, and more! <a class=\"alert-link stretched-link\" href=\"https://getdoks.org/blog/doks-v0.2/\" target=\"_blank\" rel=\"noopener\">Check out Doks v0.2</a>"
-alertText = "Introducing the Doks child theme, several DX + UX updates, and more! <a class=\"alert-link stretched-link\" href=\"https://getdoks.org/blog/doks-v0.2/\">Check out Doks v0.2</a>"
+alertText = "本站所推荐的产品均来自第三方商家, 内容仅代表作者个人观点, 不代表产品品质或商家销售服务的正确性. 本站及作者不对产品销售相关的交易行为负任何法律责任. 在购买前, 请您务必确认产品信息及商家资质, 自行判断产品质量与描述是否一致. 本站只是提供产品推荐信息, 不对任何产品背书或担保. 所有产品交易行为需由买家与卖家自行负责."
 
 # Edit Page
 # repoHost [Github | Gitea | GitLab | Bitbucket | BitbucketServer ] is used for building the edit link based on git hoster
 repoHost = "GitHub"
 #repoHost = "Gitea"
-docsRepo = "https://github.com/h-enk/doks"
-docsRepoBranch = "master"
+docsRepo = "https://github.com/bigzhu/life-hacks"
+docsRepoBranch = "main"
 docsRepoSubPath = ""
 editPage = false
 lastMod = false
