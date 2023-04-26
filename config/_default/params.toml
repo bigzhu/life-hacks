@@ -1,30 +1,29 @@
 # Meta Data for SEO
 
 ## Homepage
-title = "Doks"
+title = "Life Hacks 生活开挂技巧" ## Life Hacks
 titleSeparator = "-"
-titleAddition = "Modern Documentation Theme"
-description = "Doks is a Hugo theme for building secure, fast, and SEO-ready documentation websites, which you can easily update and customize."
+titleAddition = "提升人生层级" # Upgrade Your Life
+description = "一些重要的生活技巧跃升人生层级" ## Essential life hacks to upgrade your life
 
 ## Documentation
-# docsVersion = "0.3"
+docsVersion = "0.1"
 
 ## Open Graph
 images = ["doks.png"]
-ogLocale = "en_US"
-domainTLD = "doks.netlify.app"
-titleHome = "Doks Theme"
-
+ogLocale = "zh-CN"
+domainTLD = "bigzhu.net"
+titleHome = "生活开挂技巧"
 ## Twitter Cards
-twitterSite = "@getdoks"
-twitterCreator = "@henkverlinde"
+twitterSite = "https://lifehacks.bigzhu.net"
+twitterCreator = "@bigzhu"
 
 ## JSON-LD
 # schemaType = "Person"
 schemaType = "Organization"
 schemaName = "Doks"
 schemaAuthor = "Henk Verlinde"
-schemaAuthorTwitter = "https://twitter.com/henkverlinde"
+schemaAuthorTwitter = "https://twitter.com/bigzhu"
 schemaAuthorLinkedIn = "https://www.linkedin.com/in/henkverlinde/"
 schemaAuthorGitHub = "https://github.com/h-enk"
 schemaLocale = "en-US"
