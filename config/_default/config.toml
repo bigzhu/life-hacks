@@ -9,11 +9,7 @@ paginate = 7
 rssLimit = 10
 
 # Multilingual
-defaultContentLanguage = "zh-cn"
-[languages.zh-cn]
-  contentDir = "content/zh-cn"
-  languageName = "中文"
-  languageCode = "zh-cn"
+defaultContentLanguage = "en"
 disableLanguages = ["de", "nl"]
 # defaultContentLanguageInSubdir = true
 
